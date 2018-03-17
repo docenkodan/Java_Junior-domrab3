@@ -1,4 +1,4 @@
-package domrab3;
+package Ariphmetics;
 
 public class third {
 	public void answer (double x)
